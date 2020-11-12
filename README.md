@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 ⚡ Fun fact: I'm 6'8" which would make me the tallest programmer ever seen.
 
 
-![Matt's github stats](https://github-readme-stats.vercel.app/api?username=Snooder&theme=tokyonight&layout=compact)
+![Matt's github stats](https://github-readme-stats.vercel.app/api?username=Snoode&theme=tokyonight&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snooder&layout=compact&theme=tokyonight)](https://github.com/evanwire/github-readme-stats)
