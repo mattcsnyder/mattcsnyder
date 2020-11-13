@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I'm 6'8" which would make me the tallest programmer ever seen.
+⚡ Fun fact: I'm 6'8" which would make me the tallest programmer you'll ever see.
 
 
 ![Matt's github stats](https://github-readme-stats.vercel.app/api?username=Snooder&theme=tokyonight&layout=compact&count_private=true)
