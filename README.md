@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 
 ![Matt's github stats](https://github-readme-stats.vercel.app/api?username=Snooder&theme=tokyonight&layout=compact&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snooder&layout=compact&theme=tokyonight)](https://github.com/evanwire/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snooder&layout=compact&theme=tokyonight&count_private=true](https://github.com/Snooder/github-readme-stats)
