@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on Mobile Development using a combination of Angular, Typescript, and NativeScript for cross-platform applications.
 
-🌱 I’m currently training myself in React.
+🌱 I’m currently training myself in NativeScript.
 
 👯 I’m looking to collaborate on any type of Mobile/Webapp Development.
 
