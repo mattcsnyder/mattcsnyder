@@ -14,22 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Mobile Development using a combination of Angular, Typescript, and NativeScript for cross-platform applications.
+🔭 I’m currently working as a ML Engineer full time and spend my off-time trying to make Shopify apps.
 
-🌱 I’m currently training myself in NativeScript.
+🌱 I’m currently training myself in React.
 
-👯 I’m looking to collaborate on any type of Mobile/Webapp Development.
-
-🤔 I’m looking for help with interesting ways to leverage 21st Century UX Designs.
+👯 I’m looking to make as much passive income as possible.
 
 💬 Ask me about my latest start-up idea.
 
-📫 How to reach me: matt.snyder@Yahoo.com
+📫 How to reach me: matt.snyder@yahoo.com
 
 😄 Pronouns: He/Him
-
-⚡ Fun fact: I'm 6'8" which would make me the tallest programmer you'll ever see.
-
 
 ![Matt's github stats](https://github-readme-stats.vercel.app/api?username=Snooder&theme=tokyonight&layout=compact&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snooder&theme=tokyonight&layout=compact&count_private=true)](https://github.com/Snooder/github-readme-stats)
