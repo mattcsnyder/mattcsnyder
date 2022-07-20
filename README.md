@@ -14,17 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working as a ML Engineer full time and spend my off-time trying to make Shopify apps.
+🔭 Currently working as a ML Platforms Engineer and spend my off-time trying to create integrations, primarily Shopify apps.
 
-🌱 I’m currently training myself in React.
+🌱 Leveraging React Native to create a few start-up passion projects
 
-👯 I’m looking to make as much passive income as possible.
-
-💬 Ask me about my latest start-up idea.
-
-📫 How to reach me: matt.snyder@yahoo.com
-
-😄 Pronouns: He/Him
+👯 Looking to get my first product shipped, maybe some day . . .
 
 ![Matt's github stats](https://github-readme-stats.vercel.app/api?username=Snooder&theme=tokyonight&layout=compact&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snooder&theme=tokyonight&layout=compact&count_private=true)](https://github.com/Snooder/github-readme-stats)
