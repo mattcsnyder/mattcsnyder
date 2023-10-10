@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🌱 Leveraging React Native to create a few start-up passion projects
 
-👯 Looking to get my first product shipped, maybe some day . . .
+👯 Always looking for new partners and platforms that could benefit from our collaboration
 
-![Matt's github stats](https://github-readme-stats.vercel.app/api?username=Snooder&theme=tokyonight&layout=compact&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snooder&theme=tokyonight&layout=compact&count_private=true)](https://github.com/Snooder/github-readme-stats)
+![Matt's github stats](https://github-readme-stats.vercel.app/api?username=Snooder&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snooder&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true)](https://github.com/Snooder/github-readme-stats)
