@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 Currently working as a ML Platforms Engineer and spend my off-time trying to create integrations, primarily Shopify apps.
+🔭 Currently working as a ML Platforms Engineer and spend my 5-9 trying to create collaborate with others to create the next generation of solutions.
 
 🌱 Leveraging Machine Learning, Data Science, and the latest Frontend technologies to create new passion platforms that improve human life.
 
