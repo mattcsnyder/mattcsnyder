@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 👯 Looking for new empowered partners and platforms that could benefit from collaboration.
 
 
-![Matt's github stats](https://github-readme-stats.vercel.app/api?username=Snooder&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true)
+![Matt's github stats](https://github-readme-stats.vercel.app/api?username=Snooder&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true&hide_rank=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snooder&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true)](https://github.com/Snooder/github-readme-stats)
