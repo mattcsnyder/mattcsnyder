@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 🔭 Currently working as a ML Platforms Engineer and spend my off-time trying to create integrations, primarily Shopify apps.
 
-🌱 Leveraging React Native to create a few start-up passion projects
+🌱 Leveraging Machine Learning, Data Science, and the latest Frontend technologies to create new passion platforms that improve human life.
 
-👯 Always looking for new partners and platforms that could benefit from our collaboration
+👯 Looking for new empowered partners and platforms that could benefit from collaboration.
+
 
 ![Matt's github stats](https://github-readme-stats.vercel.app/api?username=Snooder&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snooder&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true)](https://github.com/Snooder/github-readme-stats)
