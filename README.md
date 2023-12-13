@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 Currently working as a ML Platforms Engineer and looking to collaborate with others to create the next generation of 21st century solutions.
+🔭 Currently working as an ML Platforms Engineer and looking to collaborate with others to create the next generation of 21st century solutions.
 
-🌱 Leveraging Machine Learning, Data Science, and the latest Frontend technologies to create new passion platforms that improve human life.
+🌱 Leveraging ML, data science, and the latest frontend technologies to create new passion platforms that improve human life.
 
 👯 Looking for new empowered partners and platforms that could benefit from collaboration.
 
