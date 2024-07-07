@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Github!
 
 <!--
 **Snooder/Snooder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about building scalable web applications!
 
-👯 Looking for any and all projects that mean making other people's lives better ✨
+✨ Looking for any and all projects that mean making other people's lives better 
 
 😄 Pronouns: he/him
 
