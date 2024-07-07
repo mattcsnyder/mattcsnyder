@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 Currently working as an ML Platforms Engineer and looking to collaborate with others to create the next generation of 21st century solutions.
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mattcsnyder/)
 
-🌱 Leveraging ML, data science, and the latest frontend technologies to create new passion platforms that improve human life.
+🔭 Working on leveraging machine learning, data science, and the latest frontend technologies to create new passion platforms that improve human life. Currently developing WeatherOrNot, a travel app that uses a Weather GPT service to provide weather expectations for upcoming trips or places around the world.
 
-👯 Looking for new empowered partners and platforms that could benefit from collaboration.
+💬 Ask me about building scalable web applications!
 
+👯 Looking for any and all projects that mean making other people's lives better ✨
+
+😄 Pronouns: he/him
 
 ![Matt's github stats](https://github-readme-stats.vercel.app/api?username=Snooder&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true&rank_icon=github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snooder&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true)](https://github.com/Snooder/github-readme-stats)
