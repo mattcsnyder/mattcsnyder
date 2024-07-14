@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 🔭 Working on leveraging machine learning, data science, and the latest frontend technologies to create new passion platforms that improve human life. Currently developing WeatherOrNot, a travel app that uses a Weather GPT service to provide weather expectations for upcoming trips or places around the world.
 
-💬 Ask me about building scalable web applications!
+💬 Ask me about your latest great idea!
 
-✨ Looking for any and all projects that mean making other people's lives better 
+✨ Looking for new projects that mean making other people's lives better 
 
 😄 Pronouns: he/him
 
