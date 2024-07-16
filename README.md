@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my Github!
+### Hi there 👋 Welcome to my Github! Have a look around!
 
 <!--
 **Snooder/Snooder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
