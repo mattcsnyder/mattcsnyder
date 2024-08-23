@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mattcsnyder/)
 
-🔭 Working on leveraging machine learning, data science, and the latest frontend technologies to create new passion platforms that improve human life. Currently developing WeatherOrNot, a travel app that uses a Weather GPT service to provide weather expectations for upcoming trips or places around the world.
+🔭 I work on leveraging full-stack technologies and machine learning to create new platforms that improve human life for everyone.
 
-💬 Ask me about your latest great idea!
+💬 Live life with open curiosity and teach people things you wished you learned earlier
 
-✨ Looking for new projects that mean making other people's lives better 
+✨ Looking for new projects that encourage making people's lives better 
 
 😄 Pronouns: he/him
 
