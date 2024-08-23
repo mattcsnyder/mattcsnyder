@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mattcsnyder/)
 
-🔭 I work on leveraging full-stack technologies and machine learning to create new platforms that improve human life for everyone.
+🔭 I work on leveraging full-stack technologies and machine learning to create new platforms that improve human life
 
 💬 Live life with open curiosity and teach people things you wished you learned earlier
 
