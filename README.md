@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mattcsnyder/)
 
-🔭 I work on leveraging full-stack technologies and machine learning to create new platforms that improve human life
+🔭 I test out the latest full-stack & machine learning tech to create cutting-edge platforms
 
-💬 Live life with open curiosity and teach people things you wished you learned earlier
+💬 "The single most powerful thing I can be is to be myself."
 
-✨ Looking for new projects that encourage making people's lives better 
+✨ Latest favorite tools: [Three.js](https://threejs.org/) | [mlflow](https://mlflow.org/) | [excalidraw](https://excalidraw.com/)
 
 😄 Pronouns: he/him
 
