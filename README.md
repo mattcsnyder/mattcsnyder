@@ -1,5 +1,4 @@
 ### Hi there 👋 Welcome to my Github! Have a look around!
-
 <!--
 **Snooder/Snooder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 See my portfolio: [mattsnyder.io](https://mattsnyder.io/)
+
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mattcsnyder/)
 
 🔭 I test out the latest full-stack & machine learning tech to create cutting-edge platforms
