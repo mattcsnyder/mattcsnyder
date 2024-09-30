@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🔭 I test out the latest full-stack & machine learning tech to create cutting-edge platforms
 
-💬 "The single most powerful thing I can be is to be myself."
+💬 "The single most powerful thing I can be is myself."
 
 ✨ Latest favorite tools: [Three.js](https://threejs.org/) | [mlflow](https://mlflow.org/) | [excalidraw](https://excalidraw.com/)
 
