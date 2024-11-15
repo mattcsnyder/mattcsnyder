@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my Github! Have a look around!
+### Thanks for stopping by 👋 Welcome to my Github! Have a look around!
 <!--
 **Snooder/Snooder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![Matt's github stats](https://github-readme-stats.vercel.app/api?username=Snooder&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true&rank_icon=github)
 -->
-🌱 See my portfolio: [mattsnyder.io](https://mattsnyder.io/)
+🌱 Take a quick look at my portfolio, [mattsnyder.io](https://mattsnyder.io/)
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mattcsnyder/)
 
