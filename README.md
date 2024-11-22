@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 ![Matt's github stats](https://github-readme-stats.vercel.app/api?username=Snooder&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true&rank_icon=github)
 -->
-🌱 Take a quick look at my portfolio, [mattsnyder.io](https://mattsnyder.io/)
+💬 "The single most powerful thing I can be is myself."
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mattcsnyder/)
+🌱 Take a walk through my portfolio, [mattsnyder.io](https://mattsnyder.io/)
+
+📫 You can reach me via: [LinkedIn](https://www.linkedin.com/in/mattcsnyder/)
 
 🔭 I test out the latest full-stack & machine learning tech to create cutting-edge platforms
-
-💬 "The single most powerful thing I can be is myself."
 
 ✨ Latest favorite tools: [Three.js](https://threejs.org/) | [mlflow](https://mlflow.org/) | [excalidraw](https://excalidraw.com/) | [prototypr.ai](https://www.prototypr.ai/
 )
