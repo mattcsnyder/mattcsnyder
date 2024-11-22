@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 ![Matt's github stats](https://github-readme-stats.vercel.app/api?username=Snooder&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true&rank_icon=github)
 -->
-💬 "The single most powerful thing I can be is myself."
-
 🔭 I test out the latest full-stack & machine learning tech to create cutting-edge platforms
 
 🌱 Take a walk through my portfolio, [mattsnyder.io](https://mattsnyder.io/)
@@ -27,5 +25,7 @@ Here are some ideas to get you started:
 )
 
 😄 Pronouns: he/him
+
+💬 "The single most powerful thing I can be is myself."
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snooder&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true)](https://github.com/Snooder/github-readme-stats)
