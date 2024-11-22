@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 💬 "The single most powerful thing I can be is myself."
 
-✨ Latest favorite tools: [Three.js](https://threejs.org/) | [mlflow](https://mlflow.org/) | [excalidraw](https://excalidraw.com/)
+✨ Latest favorite tools: [Three.js](https://threejs.org/) | [mlflow](https://mlflow.org/) | [excalidraw](https://excalidraw.com/) | [https://www.prototypr.ai/](https://www.prototypr.ai/
+)
 
 😄 Pronouns: he/him
 
