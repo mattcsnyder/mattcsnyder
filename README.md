@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 📫 You can reach me via: [LinkedIn](https://www.linkedin.com/in/mattcsnyder/)
 
-✨ Latest favorite tools: [Three.js](https://threejs.org/) | [mlflow](https://mlflow.org/) | [excalidraw](https://excalidraw.com/) | [prototypr.ai](https://www.prototypr.ai/
-)
+✨ Latest favorite tools: [Three.js](https://threejs.org/) | [mlflow](https://mlflow.org/) | [excalidraw](https://excalidraw.com/) | [prototypr.ai](https://www.prototypr.ai/) | [dbdiagram](https://dbdiagram.io/)
 
 😄 Pronouns: he/him
 
