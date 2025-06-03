@@ -37,7 +37,7 @@ I'm a Software Engineer, Full-Stack Developer, and Machine Learning enthusiast w
 ---
 
 ### ✨ Favorite Tools:
-- [Three.js](https://threejs.org) | [MLflow](https://mlflow.org) | [Excalidraw](https://excalidraw.com) | [Prototypr.ai](https://prototypr.io/) | [dbdiagram](https://dbdiagram.io)
+- Interactive & 3D: [Three.js](https://threejs.org) | ML Experimenting: [MLflow](https://mlflow.org) | Whiteboarding: [Excalidraw](https://excalidraw.com) | Prototypes: [Prototypr.ai](https://prototypr.io/) | Database System Diagraming: [dbdiagram](https://dbdiagram.io) | Mockups: [mediamodifier.com](https://mediamodifier.com/mockup/)
 
 ---
 
