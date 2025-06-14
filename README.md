@@ -18,8 +18,8 @@ I'm a Software Engineer, Full-Stack Developer, and Machine Learning enthusiast w
 ## 🔥 My GitHub Stats:
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snooder&theme=radical&layout=compact&count_private=true&include_all_commits=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Snooder&theme=radical&layout=compact&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattcsnyder&theme=radical&layout=compact&count_private=true&include_all_commits=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mattcsnyder&theme=radical&layout=compact&count_private=true&include_all_commits=true&rank_icon=github" />
 </p>
 
 ---
