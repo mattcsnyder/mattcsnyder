@@ -1,58 +1,140 @@
-# Hi 👋 I'm Matt Snyder.
+<div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mattcsnyder/)
-[![Blog Badge](https://img.shields.io/badge/-Blog-orange?style=flat&logo=hashnode&logoColor=white)](https://mattsnyder.io)
+# Hi, I'm Matt Snyder 👋
 
----
+### Full-stack engineer · AI builder · Product-minded problem solver
 
-## 💻 About Me:
+I build useful digital products at the intersection of thoughtful design, reliable software, and applied AI.
 
-I'm a Software Engineer, Full-Stack Developer, and Machine Learning enthusiast with a passion for creating innovative digital experiences.
+[![Portfolio](https://img.shields.io/badge/Portfolio-mattsnyder.io-2563EB?style=for-the-badge&logo=safari&logoColor=white)](https://mattsnyder.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattcsnyder/)
+[![Game](https://img.shields.io/badge/Play-Space_Poachers-FF6B6B?style=for-the-badge&logo=itchdotio&logoColor=white)](https://snooder.itch.io/space-poachers)
 
-- 🔭 Currently exploring cutting-edge full-stack & machine learning technologies.
-- ✍️ Sharing insights and projects through my [portfolio](https://mattsnyder.io).
-- 📢 Actively engaging with the community via LinkedIn.
-
----
-
-## 🔥 My GitHub Stats:
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattcsnyder&theme=radical&layout=compact&count_private=true&include_all_commits=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mattcsnyder&theme=radical&layout=compact&count_private=true&include_all_commits=true&rank_icon=github" />
-</p>
+</div>
 
 ---
 
-### 🛠️ **Technical Skills**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Programming Languages | Frameworks & Libraries | Cloud & DevOps Tools |
-|-----------------------|------------------------|----------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="35"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="35"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="35"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="35"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="35"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="35"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="35"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="35"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" width="35"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="35"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="35"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="35"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="35"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="35"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab CI/CD" width="35"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="35"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="35"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="35"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35"/> |
+### 🔵 What I'm building
 
-| Machine Learning & Data | Databases & Storage | Additional Tools |
-|-------------------------|---------------------|------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="35"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Spark/Kafka" width="35"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="35"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow/MLflow" width="35"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="35"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="35"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="35"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="35"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="35"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" alt="Drupal" width="35"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="35"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Analytics" width="35"/> |
+- Full-stack products with polished, practical UX
+- AI-powered workflows and intelligent automations
+- Systems that turn complex data into clear decisions
+
+</td>
+<td width="50%" valign="top">
+
+### 🟠 What I'm exploring
+
+- Applied machine learning and agentic systems
+- Creative coding, interactive experiences, and 3D
+- Better ways to move from idea to useful product
+
+</td>
+</tr>
+</table>
+
+## Selected toolkit
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🟦 Build
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+### 🟧 Learn
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+### 🟨 Ship
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+## GitHub at a glance
+
+<div align="center">
+
+<img height="165" alt="Matt's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mattcsnyder&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=334155&icon_color=FF6B6B&rank_icon=github" />
+<img height="165" alt="Matt's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattcsnyder&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=334155" />
+
+</div>
+
+## Tools I keep close
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Think & sketch**
+
+[Excalidraw](https://excalidraw.com) · [Figma](https://figma.com)
+
+</td>
+<td width="33%" valign="top">
+
+**Experiment & visualize**
+
+[MLflow](https://mlflow.org) · [Three.js](https://threejs.org)
+
+</td>
+<td width="33%" valign="top">
+
+**Model & present**
+
+[dbdiagram](https://dbdiagram.io) · [Mediamodifier](https://mediamodifier.com/mockup/)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ✨ Favorite Tools:
-- Interactive & 3D: [Three.js](https://threejs.org) | ML Experimenting: [MLflow](https://mlflow.org) | Whiteboarding: [Excalidraw](https://excalidraw.com) | Prototypes: [Prototypr.ai](https://prototypr.io/) | Database System Diagraming: [dbdiagram](https://dbdiagram.io) | Mockups: [mediamodifier.com](https://mediamodifier.com/mockup/)
+<div align="center">
 
----
+### Have an interesting problem to solve?
 
-### 📫 Connect with me:
-- LinkedIn: [linkedin.com/in/mattcsnyder](https://www.linkedin.com/in/mattcsnyder/)
-- Portfolio: [mattsnyder.io](https://mattsnyder.io)
+[See my work](https://mattsnyder.io) · [Connect on LinkedIn](https://www.linkedin.com/in/mattcsnyder/) · [Explore my repositories](https://github.com/mattcsnyder?tab=repositories)
 
----
+<sub>he/him · Thanks for stopping by.</sub>
 
-### 🎮 Play My Unity game:
-- [Itch.io/space-poachers](https://snooder.itch.io/space-poachers)
-
----
-
-😄 **Pronouns:** he/him
-
-Thanks for stopping by! 👋  
-Feel free to reach out or explore my repositories!
+</div>
