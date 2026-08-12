@@ -94,8 +94,8 @@ I build useful digital products at the intersection of thoughtful design, reliab
 
 <div align="center">
 
-<img height="165" alt="Matt's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mattcsnyder&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=334155&icon_color=FF6B6B&rank_icon=github" />
-<img height="165" alt="Matt's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattcsnyder&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=334155" />
+<img height="165" alt="Matt's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mattcsnyder&theme=default" />
+<img height="165" alt="Matt's repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mattcsnyder&theme=default" />
 
 </div>
 
