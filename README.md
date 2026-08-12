@@ -14,28 +14,11 @@ I build useful digital products at the intersection of thoughtful design, reliab
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🔵 What I'm building
+<img width="100%" alt="Matt Snyder specializes in product engineering, intelligent automation, and data intelligence" src="./assets/intro-value-proposition.svg?v=1" />
 
-- Full-stack products with polished, practical UX
-- AI-powered workflows and intelligent automations
-- Systems that turn complex data into clear decisions
-
-</td>
-<td width="50%" valign="top">
-
-### 🟠 What I'm exploring
-
-- Applied machine learning and agentic systems
-- Creative coding, interactive experiences, and 3D
-- Better ways to move from idea to useful product
-
-</td>
-</tr>
-</table>
+</div>
 
 ## Selected toolkit
 
