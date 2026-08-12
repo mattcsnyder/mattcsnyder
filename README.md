@@ -94,8 +94,7 @@ I build useful digital products at the intersection of thoughtful design, reliab
 
 <div align="center">
 
-<img height="165" alt="Matt's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mattcsnyder&theme=default" />
-<img height="165" alt="Matt's repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mattcsnyder&theme=default" />
+<img width="100%" alt="Matt Snyder's GitHub contribution journey from 2019 through 2026" src="./assets/contribution-journey.svg" />
 
 </div>
 
