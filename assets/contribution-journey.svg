@@ -28,51 +28,39 @@
     <text x="809" y="87" font-size="13" fill="#64748B">since 2019</text>
   </g>
 
-  <!-- chart grid -->
-  <g stroke="#E2E8F0" stroke-width="1">
-    <line x1="54" y1="332" x2="656" y2="332"/>
-    <line x1="54" y1="254" x2="656" y2="254"/>
-    <line x1="54" y1="176" x2="656" y2="176"/>
-    <line x1="54" y1="98" x2="656" y2="98"/>
-  </g>
-  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#94A3B8" text-anchor="end">
-    <text x="46" y="336">0</text>
-    <text x="46" y="258">500</text>
-    <text x="46" y="180">1K</text>
-    <text x="46" y="102">1.5K</text>
-  </g>
-
-  <!-- annual contribution bars; scale max 1,500 -->
+  <!-- bubble timeline; circle area reflects contribution volume -->
+  <line x1="76" y1="236" x2="630" y2="236" stroke="#CBD5E1" stroke-width="2"/>
   <g filter="url(#shadow)">
-    <rect x="74"  y="326" width="48" height="6"   rx="6" fill="url(#blue)"/>
-    <rect x="148" y="302" width="48" height="30"  rx="8" fill="url(#blue)"/>
-    <rect x="222" y="103" width="48" height="229" rx="8" fill="url(#blue)"/>
-    <rect x="296" y="326" width="48" height="6"   rx="6" fill="url(#blue)"/>
-    <rect x="370" y="326" width="48" height="6"   rx="6" fill="url(#blue)"/>
-    <rect x="444" y="308" width="48" height="24"  rx="8" fill="url(#blue)"/>
-    <rect x="518" y="290" width="48" height="42"  rx="8" fill="url(#blue)"/>
-    <rect x="592" y="133" width="48" height="199" rx="8" fill="url(#coral)"/>
+    <circle cx="88"  cy="236" r="7"  fill="url(#blue)"/>
+    <circle cx="162" cy="236" r="21" fill="url(#blue)"/>
+    <circle cx="242" cy="236" r="58" fill="url(#blue)"/>
+    <circle cx="322" cy="236" r="7"  fill="url(#blue)"/>
+    <circle cx="392" cy="236" r="7"  fill="url(#blue)"/>
+    <circle cx="466" cy="236" r="19" fill="url(#blue)"/>
+    <circle cx="542" cy="236" r="25" fill="url(#blue)"/>
+    <circle cx="620" cy="236" r="54" fill="url(#coral)"/>
   </g>
 
-  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="700" fill="#334155" text-anchor="middle">
-    <text x="98"  y="316">4</text>
-    <text x="172" y="292">194</text>
-    <text x="246" y="93">1,471</text>
-    <text x="320" y="316">16</text>
-    <text x="394" y="316">19</text>
-    <text x="468" y="298">156</text>
-    <text x="542" y="280">270</text>
-    <text x="616" y="123" fill="#E11D48">1,277</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="700" text-anchor="middle">
+    <text x="88"  y="213" fill="#334155">4</text>
+    <text x="162" y="240" fill="#FFFFFF">194</text>
+    <text x="242" y="241" font-size="15" fill="#FFFFFF">1,471</text>
+    <text x="322" y="213" fill="#334155">16</text>
+    <text x="392" y="213" fill="#334155">19</text>
+    <text x="466" y="240" fill="#FFFFFF">156</text>
+    <text x="542" y="240" fill="#FFFFFF">270</text>
+    <text x="620" y="241" font-size="15" fill="#FFFFFF">1,277</text>
   </g>
+  <text x="54" y="128" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#94A3B8">CIRCLE AREA = CONTRIBUTION VOLUME</text>
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" fill="#64748B" text-anchor="middle">
-    <text x="98"  y="356">2019</text>
-    <text x="172" y="356">2020</text>
-    <text x="246" y="356">2021</text>
-    <text x="320" y="356">2022</text>
-    <text x="394" y="356">2023</text>
-    <text x="468" y="356">2024</text>
-    <text x="542" y="356">2025</text>
-    <text x="616" y="356" font-weight="700" fill="#E11D48">2026 YTD</text>
+    <text x="88"  y="322">2019</text>
+    <text x="162" y="322">2020</text>
+    <text x="242" y="322">2021</text>
+    <text x="322" y="322">2022</text>
+    <text x="392" y="322">2023</text>
+    <text x="466" y="322">2024</text>
+    <text x="542" y="322">2025</text>
+    <text x="620" y="322" font-weight="700" fill="#E11D48">2026 YTD</text>
   </g>
 
   <!-- insight column -->
