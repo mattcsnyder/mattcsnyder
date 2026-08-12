@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="980" height="440" viewBox="0 0 980 440" role="img" aria-labelledby="title desc">
-  <title id="title">Matt Snyder's GitHub contribution journey from 2019 through August 2026</title>
-  <desc id="desc">A bar chart of annual GitHub contributions. The highest year was 2021 with 1,471 contributions. 2026 has 1,277 contributions year to date.</desc>
+  <title id="title">Matt Snyder's grouped GitHub contribution journey from 2019 through August 2026</title>
+  <desc id="desc">A bubble timeline of grouped GitHub contributions. The highest period was 2021 with 1,471 contributions. 2026 has 1,277 contributions year to date.</desc>
   <defs>
     <linearGradient id="blue" x1="0" y1="1" x2="0" y2="0">
       <stop offset="0" stop-color="#2563EB"/>
@@ -24,42 +24,33 @@
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
     <rect x="695" y="29" width="245" height="78" rx="14" fill="#EFF6FF"/>
     <text x="715" y="54" font-size="12" font-weight="600" fill="#2563EB">TOTAL CONTRIBUTIONS</text>
-    <text x="715" y="88" font-size="30" font-weight="700" fill="#0F172A">3,407</text>
+    <text x="715" y="88" font-size="30" font-weight="700" fill="#0F172A">3,607</text>
     <text x="809" y="87" font-size="13" fill="#64748B">since 2019</text>
   </g>
 
   <!-- bubble timeline; circle area reflects contribution volume -->
   <line x1="76" y1="236" x2="630" y2="236" stroke="#CBD5E1" stroke-width="2"/>
   <g filter="url(#shadow)">
-    <circle cx="88"  cy="236" r="7"  fill="url(#blue)"/>
-    <circle cx="162" cy="236" r="21" fill="url(#blue)"/>
-    <circle cx="242" cy="236" r="58" fill="url(#blue)"/>
-    <circle cx="322" cy="236" r="7"  fill="url(#blue)"/>
-    <circle cx="392" cy="236" r="7"  fill="url(#blue)"/>
-    <circle cx="466" cy="236" r="19" fill="url(#blue)"/>
-    <circle cx="542" cy="236" r="25" fill="url(#blue)"/>
+    <circle cx="100" cy="236" r="21" fill="url(#blue)"/>
+    <circle cx="230" cy="236" r="58" fill="url(#blue)"/>
+    <circle cx="370" cy="236" r="23" fill="url(#blue)"/>
+    <circle cx="500" cy="236" r="31" fill="url(#blue)"/>
     <circle cx="620" cy="236" r="54" fill="url(#coral)"/>
   </g>
 
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="700" text-anchor="middle">
-    <text x="88"  y="213" fill="#334155">4</text>
-    <text x="162" y="240" fill="#FFFFFF">194</text>
-    <text x="242" y="241" font-size="15" fill="#FFFFFF">1,471</text>
-    <text x="322" y="213" fill="#334155">16</text>
-    <text x="392" y="213" fill="#334155">19</text>
-    <text x="466" y="240" fill="#FFFFFF">156</text>
-    <text x="542" y="240" fill="#FFFFFF">270</text>
+    <text x="100" y="240" fill="#FFFFFF">198</text>
+    <text x="230" y="241" font-size="15" fill="#FFFFFF">1,471</text>
+    <text x="370" y="240" fill="#FFFFFF">235</text>
+    <text x="500" y="240" fill="#FFFFFF">426</text>
     <text x="620" y="241" font-size="15" fill="#FFFFFF">1,277</text>
   </g>
   <text x="54" y="128" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#94A3B8">CIRCLE AREA = CONTRIBUTION VOLUME</text>
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" fill="#64748B" text-anchor="middle">
-    <text x="88"  y="322">2019</text>
-    <text x="162" y="322">2020</text>
-    <text x="242" y="322">2021</text>
-    <text x="322" y="322">2022</text>
-    <text x="392" y="322">2023</text>
-    <text x="466" y="322">2024</text>
-    <text x="542" y="322">2025</text>
+    <text x="100" y="322">2019–2020</text>
+    <text x="230" y="322">2021</text>
+    <text x="370" y="322">2022–2023</text>
+    <text x="500" y="322">2024–2025</text>
     <text x="620" y="322" font-weight="700" fill="#E11D48">2026 YTD</text>
   </g>
 
@@ -77,12 +68,12 @@
 
     <circle cx="716" cy="306" r="7" fill="#60A5FA"/>
     <text x="736" y="302" font-size="12" font-weight="600" fill="#64748B">PUBLIC COMMITS</text>
-    <text x="736" y="326" font-size="21" font-weight="700" fill="#0F172A">155 since 2019</text>
+    <text x="736" y="326" font-size="21" font-weight="700" fill="#0F172A">355 since 2019</text>
 
     <rect x="702" y="351" width="220" height="32" rx="16" fill="#F8FAFC"/>
     <circle cx="720" cy="367" r="5" fill="#F43F5E"/>
     <text x="733" y="371" font-size="12" fill="#475569">Last updated Aug 12, 2026</text>
   </g>
 
-  <text x="40" y="410" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#94A3B8">Source: GitHub contribution calendar · Snapshot captured August 12, 2026 · 2026 is year to date</text>
+  <text x="40" y="410" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#94A3B8">GitHub snapshot: Aug 12, 2026 · Includes 200 user-supplied commits in 2022–2023 · 2026 is YTD</text>
 </svg>
