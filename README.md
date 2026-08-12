@@ -94,7 +94,7 @@ I build useful digital products at the intersection of thoughtful design, reliab
 
 <div align="center">
 
-<img width="100%" alt="Matt Snyder's GitHub contribution journey from 2019 through 2026" src="./assets/contribution-journey.svg" />
+<img width="100%" alt="Matt Snyder's grouped GitHub contribution journey from 2019 through 2026" src="./assets/contribution-journey.svg?v=2" />
 
 </div>
 
