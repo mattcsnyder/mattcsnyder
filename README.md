@@ -85,7 +85,7 @@ I build useful digital products at the intersection of thoughtful design, reliab
 
 <div align="center">
 
-<img width="100%" alt="Tools I keep close for thinking, exploring, and communicating" src="./assets/tools-i-keep-close.svg?v=1" />
+<img width="100%" alt="Tools I keep close and why I like using them" src="./assets/tools-i-keep-close.svg?v=2" />
 
 [Excalidraw](https://excalidraw.com) · [Figma](https://figma.com) · [MLflow](https://mlflow.org) · [Three.js](https://threejs.org) · [dbdiagram](https://dbdiagram.io) · [Mediamodifier](https://mediamodifier.com/mockup/)
 
