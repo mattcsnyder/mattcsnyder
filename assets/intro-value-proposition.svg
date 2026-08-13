@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="980" height="340" viewBox="0 0 980 340" role="img" aria-labelledby="title desc">
-  <title id="title">Matt Snyder turns ambitious ideas into scalable digital products</title>
-  <desc id="desc">Matt specializes in product engineering, intelligent automation, and data intelligence.</desc>
+  <title id="title">Hey, I'm a UX, Full-Stack, &amp; Cloud Engineer</title>
+  <desc id="desc">I use modern design, development, and cloud tools to create intuitive interfaces, full-stack products, and scalable infrastructure.</desc>
   <defs>
     <linearGradient id="headline" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#2563EB"/>
@@ -22,43 +22,43 @@
   <path d="M1 22A21 21 0 0 1 22 1h936a21 21 0 0 1 21 21v125H1Z" fill="url(#wash)"/>
 
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" text-anchor="middle">
-    <text x="490" y="43" font-size="12" font-weight="700" letter-spacing="2.2" fill="#64748B">FROM COMPLEXITY TO COMPETITIVE ADVANTAGE</text>
-    <text x="490" y="82" font-size="29" font-weight="750" fill="url(#headline)">I turn ambitious ideas into scalable digital products.</text>
-    <text x="490" y="113" font-size="15" fill="#475569">Strategy, engineering, and applied AI—aligned to create measurable business value.</text>
+    <text x="490" y="43" font-size="12" font-weight="700" letter-spacing="2.2" fill="#64748B">DESIGN · BUILD · DEPLOY</text>
+    <text x="490" y="82" font-size="29" font-weight="750" fill="url(#headline)">Hey, I'm a UX, Full-Stack, &amp; Cloud Engineer.</text>
+    <text x="490" y="113" font-size="15" fill="#475569">I use modern tools to create intuitive experiences, complete products, and scalable systems.</text>
   </g>
 
   <g filter="url(#shadow)" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
     <rect x="34" y="148" width="288" height="157" rx="16" fill="#FFFFFF" stroke="#DBEAFE"/>
     <circle cx="70" cy="184" r="18" fill="#DBEAFE"/>
     <path d="M62 184h16M70 176v16" stroke="#2563EB" stroke-width="2.5" stroke-linecap="round"/>
-    <text x="98" y="180" font-size="11" font-weight="700" letter-spacing="1.4" fill="#2563EB">01 · BUILD</text>
-    <text x="98" y="201" font-size="17" font-weight="700" fill="#0F172A">Product Engineering</text>
+    <text x="98" y="180" font-size="11" font-weight="700" letter-spacing="1.4" fill="#2563EB">01 · DESIGN</text>
+    <text x="98" y="201" font-size="17" font-weight="700" fill="#0F172A">UX &amp; Product Design</text>
     <text x="58" y="235" font-size="13" fill="#475569">
-      <tspan x="58" dy="0">Production-ready platforms built for</tspan>
-      <tspan x="58" dy="20">performance, scale, and standout</tspan>
-      <tspan x="58" dy="20">customer experiences.</tspan>
+      <tspan x="58" dy="0">Figma · Research · Prototyping</tspan>
+      <tspan x="58" dy="20">I shape accessible interfaces and</tspan>
+      <tspan x="58" dy="20">frictionless customer journeys.</tspan>
     </text>
 
     <rect x="346" y="148" width="288" height="157" rx="16" fill="#FFFFFF" stroke="#EDE9FE"/>
     <circle cx="382" cy="184" r="18" fill="#EDE9FE"/>
     <path d="M374 188c4-12 12-12 16 0M378 179l4-5 4 5" fill="none" stroke="#7C3AED" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="410" y="180" font-size="11" font-weight="700" letter-spacing="1.4" fill="#7C3AED">02 · ACCELERATE</text>
-    <text x="410" y="201" font-size="17" font-weight="700" fill="#0F172A">Intelligent Automation</text>
+    <text x="410" y="180" font-size="11" font-weight="700" letter-spacing="1.4" fill="#7C3AED">02 · BUILD</text>
+    <text x="410" y="201" font-size="17" font-weight="700" fill="#0F172A">Full-Stack Products</text>
     <text x="370" y="235" font-size="13" fill="#475569">
-      <tspan x="370" dy="0">AI agents and workflow systems that</tspan>
-      <tspan x="370" dy="20">eliminate friction, increase capacity,</tspan>
-      <tspan x="370" dy="20">and accelerate execution.</tspan>
+      <tspan x="370" dy="0">React · TypeScript · Python · APIs</tspan>
+      <tspan x="370" dy="20">I build reliable web platforms, AI</tspan>
+      <tspan x="370" dy="20">workflows, and data-driven tools.</tspan>
     </text>
 
     <rect x="658" y="148" width="288" height="157" rx="16" fill="#FFFFFF" stroke="#FFE4E6"/>
     <circle cx="694" cy="184" r="18" fill="#FFE4E6"/>
     <path d="M686 191v-7M694 191v-14M702 191v-10" stroke="#E11D48" stroke-width="2.5" stroke-linecap="round"/>
-    <text x="722" y="180" font-size="11" font-weight="700" letter-spacing="1.4" fill="#E11D48">03 · OPTIMIZE</text>
-    <text x="722" y="201" font-size="17" font-weight="700" fill="#0F172A">Data Intelligence</text>
+    <text x="722" y="180" font-size="11" font-weight="700" letter-spacing="1.4" fill="#E11D48">03 · DEPLOY</text>
+    <text x="722" y="201" font-size="17" font-weight="700" fill="#0F172A">Cloud Engineering</text>
     <text x="682" y="235" font-size="13" fill="#475569">
-      <tspan x="682" dy="0">Decision-ready data products that turn</tspan>
-      <tspan x="682" dy="20">complex information into clarity,</tspan>
-      <tspan x="682" dy="20">momentum, and measurable outcomes.</tspan>
+      <tspan x="682" dy="0">AWS · Docker · Kubernetes · Terraform</tspan>
+      <tspan x="682" dy="20">I deliver secure infrastructure built</tspan>
+      <tspan x="682" dy="20">to scale, automate, and perform.</tspan>
     </text>
   </g>
 </svg>

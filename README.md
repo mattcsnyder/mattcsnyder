@@ -16,7 +16,7 @@ I build useful digital products at the intersection of thoughtful design, reliab
 
 <div align="center">
 
-<img width="100%" alt="Matt Snyder specializes in product engineering, intelligent automation, and data intelligence" src="./assets/intro-value-proposition.svg?v=1" />
+<img width="100%" alt="Hey, I'm a UX, Full-Stack, and Cloud Engineer" src="./assets/intro-value-proposition.svg?v=2" />
 
 </div>
 
