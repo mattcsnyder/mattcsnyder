@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="270" viewBox="0 0 980 270" role="img" aria-labelledby="title desc">
+  <title id="title">Tools I keep close</title>
+  <desc id="desc">A curated toolkit for thinking, experimenting, visualizing, modeling, and presenting ideas.</desc>
+  <defs>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EFF6FF"/>
+      <stop offset=".5" stop-color="#FAF5FF"/>
+      <stop offset="1" stop-color="#FFF7ED"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="150%">
+      <feDropShadow dx="0" dy="4" stdDeviation="7" flood-color="#0F172A" flood-opacity=".07"/>
+    </filter>
+  </defs>
+
+  <rect width="980" height="270" rx="22" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="978" height="268" rx="21" fill="none" stroke="#E2E8F0"/>
+  <path d="M1 22A21 21 0 0 1 22 1h936a21 21 0 0 1 21 21v91H1Z" fill="url(#wash)"/>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" text-anchor="middle">
+    <text x="490" y="42" font-size="12" font-weight="700" letter-spacing="2" fill="#64748B">A CURATED CREATIVE &amp; TECHNICAL TOOLKIT</text>
+    <text x="490" y="77" font-size="27" font-weight="700" fill="#0F172A">Tools I keep close</text>
+    <text x="490" y="101" font-size="14" fill="#475569">The right tools help me move quickly from rough thinking to clear, useful outcomes.</text>
+  </g>
+
+  <g filter="url(#shadow)" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <rect x="34" y="128" width="288" height="108" rx="16" fill="#FFFFFF" stroke="#DBEAFE"/>
+    <circle cx="70" cy="164" r="18" fill="#DBEAFE"/>
+    <path d="M62 169l4-14 10 10-14 4Z" fill="none" stroke="#2563EB" stroke-width="2.3" stroke-linejoin="round"/>
+    <text x="98" y="160" font-size="11" font-weight="700" letter-spacing="1.3" fill="#2563EB">THINK</text>
+    <text x="98" y="182" font-size="17" font-weight="700" fill="#0F172A">Sketch &amp; shape</text>
+    <text x="58" y="215" font-size="13" fill="#64748B">Map ideas and design experiences.</text>
+
+    <rect x="346" y="128" width="288" height="108" rx="16" fill="#FFFFFF" stroke="#EDE9FE"/>
+    <circle cx="382" cy="164" r="18" fill="#EDE9FE"/>
+    <path d="M374 169l6-12 5 8 5-5" fill="none" stroke="#7C3AED" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="410" y="160" font-size="11" font-weight="700" letter-spacing="1.3" fill="#7C3AED">EXPLORE</text>
+    <text x="410" y="182" font-size="17" font-weight="700" fill="#0F172A">Test &amp; visualize</text>
+    <text x="370" y="215" font-size="13" fill="#64748B">Experiment, learn, and reveal patterns.</text>
+
+    <rect x="658" y="128" width="288" height="108" rx="16" fill="#FFFFFF" stroke="#FFEDD5"/>
+    <circle cx="694" cy="164" r="18" fill="#FFEDD5"/>
+    <path d="M686 170h16M686 164h11M686 158h7" stroke="#EA580C" stroke-width="2.3" stroke-linecap="round"/>
+    <text x="722" y="160" font-size="11" font-weight="700" letter-spacing="1.3" fill="#EA580C">COMMUNICATE</text>
+    <text x="722" y="182" font-size="17" font-weight="700" fill="#0F172A">Model &amp; present</text>
+    <text x="682" y="215" font-size="13" fill="#64748B">Make complex systems easy to grasp.</text>
+  </g>
+</svg>

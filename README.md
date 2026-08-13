@@ -83,31 +83,13 @@ I build useful digital products at the intersection of thoughtful design, reliab
 
 ## Tools I keep close
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<div align="center">
 
-**Think & sketch**
+<img width="100%" alt="Tools I keep close for thinking, exploring, and communicating" src="./assets/tools-i-keep-close.svg?v=1" />
 
-[Excalidraw](https://excalidraw.com) · [Figma](https://figma.com)
+[Excalidraw](https://excalidraw.com) · [Figma](https://figma.com) · [MLflow](https://mlflow.org) · [Three.js](https://threejs.org) · [dbdiagram](https://dbdiagram.io) · [Mediamodifier](https://mediamodifier.com/mockup/)
 
-</td>
-<td width="33%" valign="top">
-
-**Experiment & visualize**
-
-[MLflow](https://mlflow.org) · [Three.js](https://threejs.org)
-
-</td>
-<td width="33%" valign="top">
-
-**Model & present**
-
-[dbdiagram](https://dbdiagram.io) · [Mediamodifier](https://mediamodifier.com/mockup/)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
