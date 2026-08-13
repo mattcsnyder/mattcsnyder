@@ -24,41 +24,41 @@
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" text-anchor="middle">
     <text x="490" y="43" font-size="12" font-weight="700" letter-spacing="2.2" fill="#64748B">DESIGN · BUILD · DEPLOY</text>
     <text x="490" y="82" font-size="29" font-weight="750" fill="url(#headline)">Hey, I'm a UX, Full-Stack, &amp; Cloud Engineer.</text>
-    <text x="490" y="113" font-size="15" fill="#475569">I use modern tools to create intuitive experiences, complete products, and scalable systems.</text>
+    <text x="490" y="113" font-size="15" fill="#475569">I combine product thinking, intelligent workflows, and data platforms to solve meaningful problems.</text>
   </g>
 
   <g filter="url(#shadow)" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
     <rect x="34" y="148" width="288" height="157" rx="16" fill="#FFFFFF" stroke="#DBEAFE"/>
     <circle cx="70" cy="184" r="18" fill="#DBEAFE"/>
     <path d="M62 184h16M70 176v16" stroke="#2563EB" stroke-width="2.5" stroke-linecap="round"/>
-    <text x="98" y="180" font-size="11" font-weight="700" letter-spacing="1.4" fill="#2563EB">01 · DESIGN</text>
-    <text x="98" y="201" font-size="17" font-weight="700" fill="#0F172A">UX &amp; Product Design</text>
+    <text x="98" y="180" font-size="11" font-weight="700" letter-spacing="1.4" fill="#2563EB">01 · THINK</text>
+    <text x="98" y="201" font-size="17" font-weight="700" fill="#0F172A">Product Engineering</text>
     <text x="58" y="235" font-size="13" fill="#475569">
-      <tspan x="58" dy="0">Figma · Research · Prototyping</tspan>
-      <tspan x="58" dy="20">I shape accessible interfaces and</tspan>
-      <tspan x="58" dy="20">frictionless customer journeys.</tspan>
+      <tspan x="58" dy="0">I bring a product-minded focus to</tspan>
+      <tspan x="58" dy="20">every challenge—balancing user needs,</tspan>
+      <tspan x="58" dy="20">business goals, and technical quality.</tspan>
     </text>
 
     <rect x="346" y="148" width="288" height="157" rx="16" fill="#FFFFFF" stroke="#EDE9FE"/>
     <circle cx="382" cy="184" r="18" fill="#EDE9FE"/>
     <path d="M374 188c4-12 12-12 16 0M378 179l4-5 4 5" fill="none" stroke="#7C3AED" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="410" y="180" font-size="11" font-weight="700" letter-spacing="1.4" fill="#7C3AED">02 · BUILD</text>
-    <text x="410" y="201" font-size="17" font-weight="700" fill="#0F172A">Full-Stack Products</text>
+    <text x="410" y="180" font-size="11" font-weight="700" letter-spacing="1.4" fill="#7C3AED">02 · AUTOMATE</text>
+    <text x="410" y="201" font-size="17" font-weight="700" fill="#0F172A">Intelligent Automation</text>
     <text x="370" y="235" font-size="13" fill="#475569">
-      <tspan x="370" dy="0">React · TypeScript · Python · APIs</tspan>
-      <tspan x="370" dy="20">I build reliable web platforms, AI</tspan>
-      <tspan x="370" dy="20">workflows, and data-driven tools.</tspan>
+      <tspan x="370" dy="0">I build agents and connected workflows</tspan>
+      <tspan x="370" dy="20">that take care of routine problems so</tspan>
+      <tspan x="370" dy="20">people can focus on higher-value work.</tspan>
     </text>
 
     <rect x="658" y="148" width="288" height="157" rx="16" fill="#FFFFFF" stroke="#FFE4E6"/>
     <circle cx="694" cy="184" r="18" fill="#FFE4E6"/>
     <path d="M686 191v-7M694 191v-14M702 191v-10" stroke="#E11D48" stroke-width="2.5" stroke-linecap="round"/>
-    <text x="722" y="180" font-size="11" font-weight="700" letter-spacing="1.4" fill="#E11D48">03 · DEPLOY</text>
-    <text x="722" y="201" font-size="17" font-weight="700" fill="#0F172A">Cloud Engineering</text>
+    <text x="722" y="180" font-size="11" font-weight="700" letter-spacing="1.4" fill="#E11D48">03 · UNDERSTAND</text>
+    <text x="722" y="201" font-size="17" font-weight="700" fill="#0F172A">Data Intelligence</text>
     <text x="682" y="235" font-size="13" fill="#475569">
-      <tspan x="682" dy="0">AWS · Docker · Kubernetes · Terraform</tspan>
-      <tspan x="682" dy="20">I deliver secure infrastructure built</tspan>
-      <tspan x="682" dy="20">to scale, automate, and perform.</tspan>
+      <tspan x="682" dy="0">I create platforms that help teams</tspan>
+      <tspan x="682" dy="20">understand, measure, and learn from</tspan>
+      <tspan x="682" dy="20">their data, behavior, and key metrics.</tspan>
     </text>
   </g>
 </svg>
