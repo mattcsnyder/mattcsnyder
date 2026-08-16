@@ -95,6 +95,14 @@ I build useful digital products at the intersection of thoughtful design, reliab
 
 <div align="center">
 
+<img width="100%" alt="Secure AWS engineering for live applications" src="./assets/secure-aws-engineering.svg?v=1" />
+
+</div>
+
+---
+
+<div align="center">
+
 ### Have an interesting problem to solve?
 
 [See my work](https://mattsnyderio.netlify.app) · [Connect on LinkedIn](https://www.linkedin.com/in/mattcsnyder/) · [Explore my repositories](https://github.com/mattcsnyder?tab=repositories)
