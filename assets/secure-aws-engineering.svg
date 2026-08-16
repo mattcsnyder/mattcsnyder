@@ -24,8 +24,8 @@
     <path d="M68 33l25 9v21c0 20-11 34-25 41-14-7-25-21-25-41V42Z" fill="url(#shield)"/>
     <path d="M57 64l8 8 15-18" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
     <text x="116" y="49" font-size="12" font-weight="700" letter-spacing="2" fill="#B45309">AWS · SECURITY · PRODUCTION</text>
-    <text x="116" y="82" font-size="27" font-weight="700" fill="#0F172A">Built for the cloud. Engineered for trust.</text>
-    <text x="116" y="108" font-size="14" fill="#475569">I build tools on AWS with security treated as a first-class requirement—not an afterthought.</text>
+    <text x="116" y="82" font-size="27" font-weight="700" fill="#0F172A">I build apps for the cloud, ready for limitless users.</text>
+    <text x="116" y="108" font-size="14" fill="#475569">I design systems that scale together—securely, reliably, and without compromising the experience as demand grows.</text>
   </g>
 
   <g filter="url(#shadow)" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">

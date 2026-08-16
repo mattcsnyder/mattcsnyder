@@ -95,7 +95,7 @@ I build useful digital products at the intersection of thoughtful design, reliab
 
 <div align="center">
 
-<img width="100%" alt="Secure AWS engineering for live applications" src="./assets/secure-aws-engineering.svg?v=1" />
+<img width="100%" alt="Cloud applications designed to scale securely and reliably" src="./assets/secure-aws-engineering.svg?v=2" />
 
 </div>
 
