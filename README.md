@@ -6,9 +6,9 @@
 
 I build useful digital products at the intersection of thoughtful design, reliable software, and applied AI.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mattsnyderio.netlify.app-2563EB?style=for-the-badge&logo=netlify&logoColor=white)](https://mattsnyderio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattcsnyder/)
-[![Game](https://img.shields.io/badge/Play-Space_Poachers-FF6B6B?style=for-the-badge&logo=itchdotio&logoColor=white)](https://snooder.itch.io/space-poachers)
+<a href="https://mattsnyderio.netlify.app"><img width="31%" alt="Visit my personal site" src="./assets/visit-portfolio.svg?v=1" /></a>
+<a href="https://www.linkedin.com/in/mattcsnyder/"><img width="31%" alt="Add me on LinkedIn" src="./assets/connect-linkedin.svg?v=1" /></a>
+<a href="https://snooder.itch.io/space-poachers"><img width="31%" alt="Play my game, Space Poachers" src="./assets/play-space-poachers.svg?v=1" /></a>
 
 </div>
 
