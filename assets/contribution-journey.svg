@@ -1,79 +1,72 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="980" height="440" viewBox="0 0 980 440" role="img" aria-labelledby="title desc">
-  <title id="title">Matt Snyder's grouped GitHub contribution journey from 2019 through August 2026</title>
-  <desc id="desc">A bubble timeline of grouped GitHub contributions. The highest period was 2021 with 1,471 contributions. 2026 has 1,277 contributions year to date.</desc>
+  <title id="title">GitHub contributions before and after adopting AI</title>
+  <desc id="desc">A two-era comparison showing 2,330 contributions from 2019 through 2025 and 1,277 contributions in 2026 year to date, plus languages used in each era.</desc>
   <defs>
-    <linearGradient id="blue" x1="0" y1="1" x2="0" y2="0">
+    <linearGradient id="pre" x1="0" y1="1" x2="1" y2="0">
       <stop offset="0" stop-color="#2563EB"/>
       <stop offset="1" stop-color="#60A5FA"/>
     </linearGradient>
-    <linearGradient id="coral" x1="0" y1="1" x2="0" y2="0">
-      <stop offset="0" stop-color="#F43F5E"/>
-      <stop offset="1" stop-color="#FB7185"/>
+    <linearGradient id="post" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#F43F5E"/>
     </linearGradient>
-    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
-      <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#0F172A" flood-opacity=".08"/>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EFF6FF"/>
+      <stop offset=".55" stop-color="#FAF5FF"/>
+      <stop offset="1" stop-color="#FFF1F2"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="7" stdDeviation="10" flood-color="#0F172A" flood-opacity=".10"/>
     </filter>
   </defs>
 
   <rect width="980" height="440" rx="22" fill="#FFFFFF"/>
   <rect x="1" y="1" width="978" height="438" rx="21" fill="none" stroke="#E2E8F0"/>
-
-  <text x="40" y="50" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="24" font-weight="700" fill="#0F172A">Contribution journey</text>
-  <text x="40" y="76" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" fill="#64748B">YEARLY GITHUB ACTIVITY · STATIC SNAPSHOT</text>
+  <path d="M1 22A21 21 0 0 1 22 1h936a21 21 0 0 1 21 21v92H1Z" fill="url(#wash)"/>
 
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
-    <rect x="695" y="29" width="245" height="78" rx="14" fill="#EFF6FF"/>
-    <text x="715" y="54" font-size="12" font-weight="600" fill="#2563EB">TOTAL CONTRIBUTIONS</text>
-    <text x="715" y="88" font-size="30" font-weight="700" fill="#0F172A">3,607</text>
-    <text x="809" y="87" font-size="13" fill="#64748B">since 2019</text>
+    <text x="40" y="45" font-size="12" font-weight="700" letter-spacing="2" fill="#64748B">CONTRIBUTION JOURNEY · STATIC SNAPSHOT</text>
+    <text x="40" y="80" font-size="27" font-weight="700" fill="#0F172A">Before AI → After AI</text>
+    <text x="40" y="103" font-size="14" fill="#475569">How an AI-augmented workflow changed the pace of building.</text>
+
+    <rect x="756" y="25" width="184" height="68" rx="14" fill="#FFFFFF" stroke="#E2E8F0"/>
+    <text x="776" y="50" font-size="11" font-weight="700" letter-spacing="1" fill="#64748B">TOTAL CONTRIBUTIONS</text>
+    <text x="776" y="78" font-size="25" font-weight="700" fill="#0F172A">3,607</text>
   </g>
 
-  <!-- bubble timeline; circle area reflects contribution volume -->
-  <line x1="76" y1="236" x2="630" y2="236" stroke="#CBD5E1" stroke-width="2"/>
+  <!-- two-era contribution comparison; circle area reflects contribution volume -->
   <g filter="url(#shadow)">
-    <circle cx="100" cy="236" r="21" fill="url(#blue)"/>
-    <circle cx="230" cy="236" r="58" fill="url(#blue)"/>
-    <circle cx="370" cy="236" r="23" fill="url(#blue)"/>
-    <circle cx="500" cy="236" r="31" fill="url(#blue)"/>
-    <circle cx="620" cy="236" r="54" fill="url(#coral)"/>
+    <circle cx="255" cy="224" r="88" fill="url(#pre)"/>
+    <circle cx="696" cy="224" r="65" fill="url(#post)"/>
   </g>
 
-  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="700" text-anchor="middle">
-    <text x="100" y="240" fill="#FFFFFF">198</text>
-    <text x="230" y="241" font-size="15" fill="#FFFFFF">1,471</text>
-    <text x="370" y="240" fill="#FFFFFF">235</text>
-    <text x="500" y="240" fill="#FFFFFF">426</text>
-    <text x="620" y="241" font-size="15" fill="#FFFFFF">1,277</text>
-  </g>
-  <text x="54" y="128" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#94A3B8">CIRCLE AREA = CONTRIBUTION VOLUME</text>
-  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" fill="#64748B" text-anchor="middle">
-    <text x="100" y="322">2019–2020</text>
-    <text x="230" y="322">2021</text>
-    <text x="370" y="322">2022–2023</text>
-    <text x="500" y="322">2024–2025</text>
-    <text x="620" y="322" font-weight="700" fill="#E11D48">2026 YTD</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" text-anchor="middle">
+    <text x="255" y="202" font-size="12" font-weight="700" letter-spacing="1.5" fill="#DBEAFE">PRE-AI · 2019–2025</text>
+    <text x="255" y="240" font-size="34" font-weight="700" fill="#FFFFFF">2,330</text>
+    <text x="255" y="263" font-size="13" fill="#EFF6FF">contributions</text>
+
+    <text x="696" y="207" font-size="12" font-weight="700" letter-spacing="1.3" fill="#FCE7F3">POST-AI · 2026 YTD</text>
+    <text x="696" y="239" font-size="30" font-weight="700" fill="#FFFFFF">1,277</text>
+    <text x="696" y="260" font-size="13" fill="#FDF2F8">contributions</text>
+
+    <line x1="370" y1="224" x2="573" y2="224" stroke="#CBD5E1" stroke-width="2"/>
+    <path d="M565 216l10 8-10 8" fill="none" stroke="#94A3B8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="411" y="189" width="123" height="27" rx="13.5" fill="#F8FAFC" stroke="#E2E8F0"/>
+    <text x="472" y="207" font-size="11" font-weight="700" fill="#475569">AI-AUGMENTED</text>
+    <text x="472" y="251" font-size="13" font-weight="700" fill="#7C3AED">55% of 7 years</text>
+    <text x="472" y="269" font-size="11" fill="#64748B">in one partial year</text>
   </g>
 
-  <!-- insight column -->
+  <!-- language lists -->
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
-    <line x1="680" y1="131" x2="680" y2="373" stroke="#E2E8F0"/>
+    <rect x="72" y="335" width="366" height="60" rx="14" fill="#EFF6FF"/>
+    <text x="92" y="359" font-size="11" font-weight="700" letter-spacing="1.2" fill="#2563EB">LANGUAGES USED · PRE-AI</text>
+    <text x="92" y="381" font-size="14" font-weight="600" fill="#334155">Java · Python · JavaScript · C# · Shell</text>
 
-    <circle cx="716" cy="164" r="7" fill="#FBBF24"/>
-    <text x="736" y="160" font-size="12" font-weight="600" fill="#64748B">PEAK YEAR</text>
-    <text x="736" y="184" font-size="21" font-weight="700" fill="#0F172A">2021 · 1,471</text>
-
-    <circle cx="716" cy="235" r="7" fill="#FB7185"/>
-    <text x="736" y="231" font-size="12" font-weight="600" fill="#64748B">2026 MOMENTUM</text>
-    <text x="736" y="255" font-size="21" font-weight="700" fill="#0F172A">87% of peak</text>
-
-    <circle cx="716" cy="306" r="7" fill="#60A5FA"/>
-    <text x="736" y="302" font-size="12" font-weight="600" fill="#64748B">PUBLIC COMMITS</text>
-    <text x="736" y="326" font-size="21" font-weight="700" fill="#0F172A">355 since 2019</text>
-
-    <rect x="702" y="351" width="220" height="32" rx="16" fill="#F8FAFC"/>
-    <circle cx="720" cy="367" r="5" fill="#F43F5E"/>
-    <text x="733" y="371" font-size="12" fill="#475569">Last updated Aug 12, 2026</text>
+    <rect x="542" y="335" width="366" height="60" rx="14" fill="#FAF5FF"/>
+    <text x="562" y="359" font-size="11" font-weight="700" letter-spacing="1.2" fill="#7C3AED">LANGUAGES USED · POST-AI</text>
+    <text x="562" y="381" font-size="14" font-weight="600" fill="#334155">TypeScript · Python · JavaScript · Go · Shell</text>
   </g>
 
-  <text x="40" y="410" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#94A3B8">GitHub snapshot: Aug 12, 2026 · Includes 200 user-supplied commits in 2022–2023 · 2026 is YTD</text>
+  <text x="490" y="421" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#94A3B8" text-anchor="middle">Snapshot: Aug 12, 2026 · Includes 200 user-supplied commits in 2022–2023 · 2026 is year to date</text>
 </svg>
