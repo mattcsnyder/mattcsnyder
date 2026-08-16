@@ -77,7 +77,7 @@ I build useful digital products at the intersection of thoughtful design, reliab
 
 <div align="center">
 
-<img width="100%" alt="GitHub contributions and repositories before and after adopting AI, with most used languages" src="./assets/contribution-journey.svg?v=7" />
+<img width="100%" alt="GitHub contributions and repositories before and after adopting AI, with most used languages and tools" src="./assets/contribution-journey.svg?v=8" />
 
 </div>
 
