@@ -45,13 +45,13 @@
     <text x="255" y="203" font-size="13" font-weight="700" letter-spacing="1.2" fill="#DBEAFE">2019–2025</text>
     <text x="255" y="241" font-size="34" font-weight="700" fill="#FFFFFF">2,330</text>
     <text x="255" y="263" font-size="13" fill="#EFF6FF">contributions</text>
-    <text x="255" y="284" font-size="12" font-weight="700" fill="#DBEAFE">33 public repos</text>
+    <text x="255" y="284" font-size="12" font-weight="700" fill="#DBEAFE">35 repos</text>
 
     <text x="696" y="142" font-size="13" font-weight="700" letter-spacing="1.8" fill="#E11D48">POST-AI</text>
     <text x="696" y="208" font-size="13" font-weight="700" letter-spacing="1.2" fill="#FCE7F3">2026 YTD</text>
     <text x="696" y="241" font-size="30" font-weight="700" fill="#FFFFFF">1,277</text>
     <text x="696" y="260" font-size="13" fill="#FDF2F8">contributions</text>
-    <text x="696" y="280" font-size="12" font-weight="700" fill="#FCE7F3">3 public repos</text>
+    <text x="696" y="280" font-size="12" font-weight="700" fill="#FCE7F3">5 active repos</text>
 
     <line x1="370" y1="224" x2="573" y2="224" stroke="#CBD5E1" stroke-width="2"/>
     <path d="M565 216l10 8-10 8" fill="none" stroke="#94A3B8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -63,14 +63,15 @@
 
   <!-- language lists -->
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
-    <rect x="72" y="335" width="366" height="60" rx="14" fill="#EFF6FF"/>
-    <text x="92" y="359" font-size="11" font-weight="700" letter-spacing="1.2" fill="#2563EB">MOST USED LANGUAGES · PRE-AI</text>
-    <text x="92" y="381" font-size="14" font-weight="600" fill="#334155">1 · Java　 2 · Python　 3 · JavaScript</text>
+    <text x="490" y="329" font-size="12" font-weight="700" letter-spacing="2" fill="#64748B" text-anchor="middle">MOST USED LANGUAGES</text>
+    <rect x="72" y="343" width="366" height="60" rx="14" fill="#EFF6FF"/>
+    <text x="92" y="367" font-size="11" font-weight="700" letter-spacing="1.2" fill="#2563EB">PRE-AI</text>
+    <text x="92" y="389" font-size="14" font-weight="600" fill="#334155">1 · Java　 2 · Python　 3 · JavaScript</text>
 
-    <rect x="542" y="335" width="366" height="60" rx="14" fill="#FAF5FF"/>
-    <text x="562" y="359" font-size="11" font-weight="700" letter-spacing="1.2" fill="#7C3AED">MOST USED LANGUAGES · POST-AI</text>
-    <text x="562" y="381" font-size="14" font-weight="600" fill="#334155">1 · Python　 2 · Shell　 3 · —</text>
+    <rect x="542" y="343" width="366" height="60" rx="14" fill="#FAF5FF"/>
+    <text x="562" y="367" font-size="11" font-weight="700" letter-spacing="1.2" fill="#7C3AED">POST-AI</text>
+    <text x="562" y="389" font-size="14" font-weight="600" fill="#334155">1 · TypeScript　 2 · Python　 3 · Shell</text>
   </g>
 
-  <text x="490" y="421" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#94A3B8" text-anchor="middle">Snapshot: Aug 12, 2026 · Includes 200 user-supplied commits in 2022–2023 · 2026 is year to date</text>
+  <text x="490" y="423" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#94A3B8" text-anchor="middle">Snapshot: Aug 12, 2026 · Includes ongoing Snydex platforms in both eras · 2026 is year to date</text>
 </svg>
