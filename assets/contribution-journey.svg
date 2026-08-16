@@ -44,12 +44,14 @@
     <text x="255" y="122" font-size="13" font-weight="700" letter-spacing="1.8" fill="#2563EB">PRE-AI</text>
     <text x="255" y="203" font-size="13" font-weight="700" letter-spacing="1.2" fill="#DBEAFE">2019–2025</text>
     <text x="255" y="241" font-size="34" font-weight="700" fill="#FFFFFF">2,330</text>
-    <text x="255" y="264" font-size="13" fill="#EFF6FF">contributions</text>
+    <text x="255" y="263" font-size="13" fill="#EFF6FF">contributions</text>
+    <text x="255" y="284" font-size="12" font-weight="700" fill="#DBEAFE">33 public repos</text>
 
     <text x="696" y="142" font-size="13" font-weight="700" letter-spacing="1.8" fill="#E11D48">POST-AI</text>
     <text x="696" y="208" font-size="13" font-weight="700" letter-spacing="1.2" fill="#FCE7F3">2026 YTD</text>
     <text x="696" y="241" font-size="30" font-weight="700" fill="#FFFFFF">1,277</text>
-    <text x="696" y="262" font-size="13" fill="#FDF2F8">contributions</text>
+    <text x="696" y="260" font-size="13" fill="#FDF2F8">contributions</text>
+    <text x="696" y="280" font-size="12" font-weight="700" fill="#FCE7F3">3 public repos</text>
 
     <line x1="370" y1="224" x2="573" y2="224" stroke="#CBD5E1" stroke-width="2"/>
     <path d="M565 216l10 8-10 8" fill="none" stroke="#94A3B8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
